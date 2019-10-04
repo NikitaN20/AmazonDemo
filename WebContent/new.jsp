@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	  <a href ="login.jsp">Login</a>
-      <a href="PreregistrartionS" >Register</a>
-      <a href="new.jsp">click me</a>
+<a href="https://www.amazon.com/">Asli Amazon</a>
 </body>
 </html>
